@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@bitbucket.di2e.net:7999/cop/parallel.git"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
